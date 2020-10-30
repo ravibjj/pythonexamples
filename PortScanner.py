@@ -1,6 +1,7 @@
 # Simple Port Scanner
 # Ravi Nori
 # Usage : takes an ip address or hostname and will scan for all OPEN ports
+# Example: if nmap is not available and/or quick scan
 
 import sys
 import socket
