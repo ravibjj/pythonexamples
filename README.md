@@ -1,4 +1,4 @@
-#Python Network Security Examples
+# Python Network Security Examples
 Library of common tools written in Python3 for the purposes of network security testing
 
 ## Installation/Prerequisites
@@ -9,3 +9,7 @@ import Scapy
 import Socket
 
 ## Usage
+port scanner
+test web server
+example of tftp attack
+example of ftp attack
